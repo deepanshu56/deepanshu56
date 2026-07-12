@@ -34,3 +34,20 @@ Machine Learning · Data Science · Back-End Development
 ---
 
 <p align="center"><i>Open to B2B SaaS SEO & content marketing collaborations.</i></p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=deepanshu56&show_icons=true&theme=default&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=deepanshu56&hide_border=true"/>
+</p>
+
+### 🏅 Skill Badges
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat"/>
+</p>
